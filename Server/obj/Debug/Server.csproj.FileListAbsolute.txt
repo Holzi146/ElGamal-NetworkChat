@@ -1,0 +1,30 @@
+C:\Users\Christoph\Desktop\ElGamal_Chat\Server\bin\Debug\Server.exe.config
+C:\Users\Christoph\Desktop\ElGamal_Chat\Server\bin\Debug\Server.exe
+C:\Users\Christoph\Desktop\ElGamal_Chat\Server\bin\Debug\Server.pdb
+C:\Users\Christoph\Desktop\ElGamal_Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Christoph\Desktop\ElGamal_Chat\Server\obj\Debug\Server.exe
+C:\Users\Christoph\Desktop\ElGamal_Chat\Server\obj\Debug\Server.pdb
+L:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\bin\Debug\Server.exe.config
+L:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\obj\Debug\Server.exe
+L:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\obj\Debug\Server.pdb
+L:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\bin\Debug\Server.exe
+L:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\bin\Debug\Server.pdb
+L:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\bin\Debug\Server.exe.config
+E:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\obj\Debug\Server.exe
+E:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\obj\Debug\Server.pdb
+E:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\bin\Debug\Server.exe
+E:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\bin\Debug\Server.pdb
+E:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\bin\Debug\Server.exe.config
+D:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\obj\Debug\Server.exe
+D:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\obj\Debug\Server.pdb
+D:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\bin\Debug\Server.exe
+D:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\bin\Debug\Server.pdb
+D:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+G:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\bin\Debug\Server.exe.config
+G:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\obj\Debug\Server.exe
+G:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\obj\Debug\Server.pdb
+G:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\bin\Debug\Server.exe
+G:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\bin\Debug\Server.pdb
+G:\Schule\5. Klasse\NTSI\Baumgartner\ElGamal_Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

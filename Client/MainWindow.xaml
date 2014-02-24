@@ -1,0 +1,16 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ElGamal Chat" Height="223" Width="504" ResizeMode="CanMinimize">
+    <Grid>
+        <Label x:Name="lbl_zeichen" Content="Geben Sie einen Text ein : (noch 71 Zeichen übrig)" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.132,-1.115"/>
+        <TextBox x:Name="tbx_input" HorizontalAlignment="Left" Height="23" Margin="10,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="465" TextChanged="tbx_input_TextChanged"/>
+        <Button x:Name="btn_send" Content="Senden" HorizontalAlignment="Left" Margin="10,138,0,0" VerticalAlignment="Top" Width="95" Height="27" Click="btn_send_Click" IsEnabled="False"/>
+        <Image x:Name="img_check" HorizontalAlignment="Left" Height="18" Margin="120,143,0,0" VerticalAlignment="Top" Width="26" RenderTransformOrigin="-0.087,0.519" Source="Check.png" Visibility="Hidden"/>
+        <Label x:Name="lbl_keyReceived" Content="öffentlicher Schlüssel" HorizontalAlignment="Left" Margin="146,139,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <TextBox x:Name="tbx_ip" HorizontalAlignment="Left" Height="23" Margin="87,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="110"/>
+        <Label Content="IP-Adresse :" HorizontalAlignment="Left" Margin="10,26,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn_connect" Content="Connect" HorizontalAlignment="Left" Margin="202,30,0,0" VerticalAlignment="Top" Width="75" Click="btn_connect_Click"/>
+
+    </Grid>
+</Window>
